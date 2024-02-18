@@ -1,2 +1,0 @@
-# HardEvoTranslate
-Translate
